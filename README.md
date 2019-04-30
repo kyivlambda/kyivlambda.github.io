@@ -34,3 +34,4 @@
 - [Erlang от @darkproger 14 ноября 2012](http://dou.ua/calendar/2513/)
 - [#kievfprog 27 сентября 2012](http://dou.ua/calendar/2265/)
 - [#kievfprog 21 июля 2012](http://dou.ua/calendar/2040/)
+
