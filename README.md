@@ -2,6 +2,17 @@
 
 - [@kyivfprog on Twitter](https://twitter.com/kyivfprog)
 - [#kyivfprog on Facebook](https://fb.me/kievfprog)
+- [@KyivHaskell on Twitter](https://twitter.com/KyivHaskell)
+
+# Study groups
+
+- [Haskell Study Group](https://github.com/kyivfprog/haskell-study-group)
+- [Elm Study Group](https://github.com/kyivfprog/elm-study-group)
+- [Rust Hack and Learn](https://github.com/kyivfprog/rust-hack-and-learn)
+
+# Links
+
+- [#kyivfprog Talks Archive](http://kyivfprog.github.io/talks)
 
 # Past Events
 
@@ -23,8 +34,3 @@
 - [Erlang от @darkproger 14 ноября 2012](http://dou.ua/calendar/2513/)
 - [#kievfprog 27 сентября 2012](http://dou.ua/calendar/2265/)
 - [#kievfprog 21 июля 2012](http://dou.ua/calendar/2040/)
-
-# Links
-
-- [#kievfprog Talks Archive](http://kyivfprog.github.io/talks)
-
