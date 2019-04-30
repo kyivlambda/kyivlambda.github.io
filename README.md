@@ -8,12 +8,12 @@
 
 - [Haskell Study Group](https://kyivlambda.com/haskell-study-group/)
 - [Elm Study Group](https://kyivlambda.com/elm-study-group/)
-- [Rust Hack and Learn](https://kyivlambda.com/elm-study-group/rust-hack-and-learn/)
+- [Rust Hack and Learn](https://kyivlambda.com/rust-hack-and-learn/)
 
 ## Slack / Telegram
 
 - Join kyivlambda Slack by following the [invitation link](https://join.slack.com/t/kyivhaskell/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU) . Study group channels: `#elm-study-group` and `#haskell-study-group`.
-- Telegram channels [KyivHaskell](https://t.me/KyivHaskell) and [KyivElm](https://t.me/KyivElm)
+- Telegram channels [KyivHaskell](https://t.me/KyivHaskell) and [KyivElm](https://t.me/KyivElm).
 
 ## Past Events ([#Talks Archive](http://kyivfprog.github.io/talks))
 
