@@ -1,7 +1,3 @@
-# kyivlambda
-
-![kyivlambda](./kyivlambda.png)
-
 ## Follow Us
 
 - [@kyivfprog on Twitter](https://twitter.com/kyivfprog)
