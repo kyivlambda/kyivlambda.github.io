@@ -1,20 +1,22 @@
-# Follow Us
+# kyivlambda
+
+## Follow Us
 
 - [@kyivfprog on Twitter](https://twitter.com/kyivfprog)
 - [#kyivfprog on Facebook](https://fb.me/kievfprog)
 - [@KyivHaskell on Twitter](https://twitter.com/KyivHaskell)
 
-# Study groups
+## Study groups
 
 - [Haskell Study Group](https://github.com/kyivfprog/haskell-study-group)
 - [Elm Study Group](https://github.com/kyivfprog/elm-study-group)
 - [Rust Hack and Learn](https://github.com/kyivfprog/rust-hack-and-learn)
 
-# Links
+## Links
 
 - [#kyivfprog Talks Archive](http://kyivfprog.github.io/talks)
 
-# Past Events
+## Past Events
 
 - [#kievfprog Spring 2018](https://www.eventbrite.com/e/kievfprog-spring-2018-tickets-45015223746)
 - [#kievfprog Fall 2017](https://www.eventbrite.com/e/kievfprog-fall-2017-tickets-39509911208)
