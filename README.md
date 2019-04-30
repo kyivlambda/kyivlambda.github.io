@@ -8,9 +8,9 @@
 
 ## Study groups
 
-- [Haskell Study Group](https://github.com/kyivfprog/haskell-study-group)
-- [Elm Study Group](https://github.com/kyivfprog/elm-study-group)
-- [Rust Hack and Learn](https://github.com/kyivfprog/rust-hack-and-learn)
+- [Haskell Study Group](https://kyivlambda.com/haskell-study-group/)
+- [Elm Study Group](https://kyivlambda.com/elm-study-group/)
+- [Rust Hack and Learn](https://kyivlambda.com/elm-study-group/rust-hack-and-learn/)
 
 ## Slack / Telegram
 
