@@ -1,3 +1,5 @@
+<a href="https://kyivlambda.com/haskell-study-group/"><img alt="Haskell Study Group Fall 2019" src="https://github.com/kyivlambda/kyivlambda.github.io/raw/master/banner-832.png"></img></a>
+
 ## Follow Us
 
 - [@kyivfprog on Twitter](https://twitter.com/kyivfprog)
