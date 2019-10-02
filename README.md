@@ -2,7 +2,7 @@
 
 ## [МИ ЗАПУСКАЄМО ОСІННІЙ НАБІР НА HASKELL STUDY GROUP](https://kyivlambda.com/haskell-study-group/)
 
-Вся інфо тут: https://kyivlambda.com/haskell-study-group/
+Вся інфо на [сторінці курсів](https://kyivlambda.com/haskell-study-group/)
 
 ## Follow Us
 
