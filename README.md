@@ -18,7 +18,7 @@
 
 ## Slack / Telegram
 
-- Join kyivlambda Slack by following the [invitation link](https://join.slack.com/t/kyivhaskell/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU) . Study group channels: `#elm-study-group` and `#haskell-study-group`.
+- Join kyivlambda Slack by following the [invitation link](https://join.slack.com/t/kyivlambda/shared_invite/enQtMjQzMjA1Mjk2ODUwLTM4MGViMjczNjc3NGFmZDA4NjFlMjNiMzRlOTY5NGQ5MDZhNDhhNDg5NDZhOGE2N2ExN2RiMTI0MzBkMTE3ZTU) . Study group channels: `#elm-study-group` and `#haskell-study-group`.
 - Telegram channels [KyivHaskell](https://t.me/KyivHaskell) and [KyivElm](https://t.me/KyivElm).
 
 ## Past Events ([Talks Archive](http://kyivlambda.github.io/talks))
