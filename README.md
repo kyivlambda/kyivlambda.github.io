@@ -6,7 +6,7 @@
 
 ## Follow Us
 
-- [@kyivfprog on Twitter](https://twitter.com/kyivfprog)
+- [@kyivlambda on Twitter](https://twitter.com/kyivlambda)
 - [#kyivfprog on Facebook](https://fb.me/kievfprog)
 - [@KyivHaskell on Twitter](https://twitter.com/KyivHaskell)
 
