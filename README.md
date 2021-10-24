@@ -37,7 +37,6 @@
 - [#kievfprog 15 ноября 2013](https://github.com/kievfprog/kievfprog.github.io/blob/KIEVFPROG_5/event.yaml)
 - [#kievfprog 3 августа 2013](https://github.com/kievfprog/kievfprog.github.io/blob/KIEVFPROG_4/event.yaml)
 - [FP stage на Hotcode 31 мая - 1 июня 2013](http://hotcode.org/program-ru/stages-ru/functional/)
-- [Курсы Erlang от @5HT 13-14 апреля 2013](http://dou.ua/calendar/3151/)
 - [#kievfprog 27 марта 2013](http://dou.ua/calendar/3068/)
 - [Erlang от @darkproger 14 ноября 2012](http://dou.ua/calendar/2513/)
 - [#kievfprog 27 сентября 2012](http://dou.ua/calendar/2265/)
